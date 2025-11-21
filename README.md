@@ -234,7 +234,8 @@ We will collaborate with native Efik speakers and linguists to validate translat
 
 We have already deployed a beta verson of the initial project website, which will host the public demos and documentation:
 
-**➡️ https://efikai.vercel.app**
+**➡️ https://efik-ai.vercel.app**
+![alt text](Untitled.png)
 
 **With additional funding, we will complete the full deployment pipeline:**
 -   Publish all datasets to Hugging Face
